@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DpolePiskvorky", "2DpolePiskvorky\2DpolePiskvorky.csproj", "{EE861961-8CA0-4402-A833-B22BD2EFC1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE861961-8CA0-4402-A833-B22BD2EFC1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE861961-8CA0-4402-A833-B22BD2EFC1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE861961-8CA0-4402-A833-B22BD2EFC1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE861961-8CA0-4402-A833-B22BD2EFC1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B47DD08-3961-442F-810F-F13C9F8BC6D7}
+	EndGlobalSection
+EndGlobal
